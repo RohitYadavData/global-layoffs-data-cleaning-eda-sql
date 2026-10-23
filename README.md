@@ -25,3 +25,7 @@ CTE, window functions (ROW_NUMBER, DENSE_RANK, SUM OVER), self join, GROUP BY, S
 
 ## Files
 - `layoffs_cleaning_and_eda.sql`: all cleaning and analysis queries
+
+## Key Findings
+- The United States had the highest total layoffs (256,559), about 7x more than India (35,993), the second-ranked country.
+- 2022 had the highest yearly layoffs (160,661), followed by 2023 (125,677) and 2020 (80,998).
